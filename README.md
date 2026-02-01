@@ -37,10 +37,11 @@
 
 <div align="center">
   
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAlsayed334&theme=radical&hide_border=true)
-  
-</div>
+<a href="https://github.com/MohamedAlsayed334">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAlsayed334&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Mohamed Alsayed's GitHub streak stats" />
+</a>
 
+</div>
 ---
 
 ## 🌱 **Currently Learning at FCAI**
@@ -76,10 +77,3 @@
 
 ## ✨ **My Coding Philosophy**
 > **"Hard work and attitude build the foundation, consistent learning builds the skyscraper."**  
----
-
-<div align="center">
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=MohamedAlsayed334&color=blueviolet&style=flat)
-    
-</div>
