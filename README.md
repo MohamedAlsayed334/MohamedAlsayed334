@@ -6,22 +6,27 @@
 
 ## 🛠️ **Tech Stack & Tools**
 
-### **Languages**
+### **Languages I Work With**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cpp" />
 </p>
+- **C++:** Intermediate (OOP, Data Structures, Basic Algorithms)
+- **Python:** Learning...
 
-### **Frameworks & Libraries**
-**`Still learning`**
-
-### **Databases & Cloud**
-**`Still learning`**
-
-
-### **Tools & Platforms**
+### **Tools I Use Daily**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
+- **Git & GitHub:** Version control for all my projects
+- **VS Code:** Primary code editor
+- **Linux:** Ubuntu for development environment
+
+### **Currently Exploring**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql" />
+</p>
+- Web Development (HTML/CSS/JavaScript)
+- Database Basics (MySQL/SQLite)
 
 ---
 
@@ -29,16 +34,12 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAlsayed334&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlsayed334&layout=compact&theme=radical&hide_border=true)
-  
   ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MohamedAlsayed334&theme=radical&hide_border=true)
   
 </div>
 
 ---
-
+<!-- 
 ## 🚀 **Featured Projects**
 
 ### **🎓 University Projects**
@@ -50,7 +51,7 @@
 - 🚀 **[Another Project](link)** - Brief description  
 - 💡 **[Side Project](link)** - Brief description -->
 
----
+--- -->
 
 ## 🌱 **Currently Learning at FCAI**
 - **📘 Data Structures & Algorithms** - Mastering DSA with C++
@@ -82,7 +83,6 @@
 
 ## ✨ **My Coding Philosophy**
 > **"Hard work and attitude build the foundation, consistent learning builds the skyscraper."**  
-> *As an FCAI student, I believe every bug fixed is a lesson learned, and every project completed is a step toward becoming a better engineer.* 🚀
 ---
 
 <div align="center">
