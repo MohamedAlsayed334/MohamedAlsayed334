@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Mohamed Alsayed] 
+# 👋 Hello, I'm Mohamed Alsayed Lashin
 
 **`Student in FCAI Cairo University`**
 
@@ -41,19 +41,6 @@
   
 </div>
 
-<!-- --- -->
-<!-- 
-## 🚀 **Featured Projects**
-
-### **🎓 University Projects**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MohamedAlsayed334&repo=Photoshop-program&theme=radical)](https://github.com/MohamedAlsayed334/Photoshop-program)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MohamedAlsayed334&repo=Audio-program&theme=radical)](https://github.com/MohamedAlsayed334/Audio-program)
-
-<!-- ### **🎯 Currently Building**
-- 🔥 **[Project Name](link)** - Brief description
-- 🚀 **[Another Project](link)** - Brief description  
-- 💡 **[Side Project](link)** - Brief description -->
-
 ---
 
 ## 🌱 **Currently Learning at FCAI**
@@ -79,6 +66,9 @@
   </a>
   <a href="mailto:sayedlashine1@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/MohamedAlsayed334" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
