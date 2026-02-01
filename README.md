@@ -10,6 +10,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp" />
 </p>
+
 - **C++:** Intermediate (OOP, Data Structures, Basic Algorithms)
 - **Python:** Learning...
 
@@ -17,6 +18,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
+
 - **Git & GitHub:** Version control for all my projects
 - **VS Code:** Primary code editor
 - **Linux:** Ubuntu for development environment
@@ -25,6 +27,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,mysql" />
 </p>
+
 - Web Development (HTML/CSS/JavaScript)
 - Database Basics (MySQL/SQLite)
 
@@ -38,7 +41,7 @@
   
 </div>
 
----
+<!-- --- -->
 <!-- 
 ## 🚀 **Featured Projects**
 
@@ -51,7 +54,7 @@
 - 🚀 **[Another Project](link)** - Brief description  
 - 💡 **[Side Project](link)** - Brief description -->
 
---- -->
+---
 
 ## 🌱 **Currently Learning at FCAI**
 - **📘 Data Structures & Algorithms** - Mastering DSA with C++
