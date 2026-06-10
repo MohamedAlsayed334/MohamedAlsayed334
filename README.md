@@ -52,12 +52,8 @@
 - **📚 Computer Science Fundamentals** - OS, Networking, etc.
 ---
 
-## 📈 **Contribution Graph**
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedAlsayed334&theme=react-dark&hide_border=true&area=true)
+## 💬 **Let's Connect**
 
----
-
-## 📫 **Connect With Me**
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamedalsayed" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -72,8 +68,3 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-
----
-
-## ✨ **My Coding Philosophy**
-> **"Hard work and attitude build the foundation, consistent learning builds the skyscraper."**  
