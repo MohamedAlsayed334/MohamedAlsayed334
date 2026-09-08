@@ -1,6 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=110&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mohamed+%F0%9F%91%8B;I+build+backends+with+Node.js;REST+APIs+%C2%B7+Auth+%C2%B7+Realtime;Exploring+Agentic+AI+%F0%9F%A4%96)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+I'm+Mohamed+%F0%9F%91%8B;I+build+backends+with+Node.js;REST+APIs+%C2%B7+Auth+%C2%B7+Realtime;Exploring+Agentic+AI+%F0%9F%A4%96" alt="Typing SVG" /></a>
+</p>
 
 ### 🧑‍💻 About
 - 🔨 Node.js backends — auth, REST, realtime
