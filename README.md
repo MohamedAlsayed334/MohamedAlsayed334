@@ -1,70 +1,28 @@
-# 👋 Hello, I'm Mohamed Alsayed Lashin
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=110&section=header"/>
 
-**`Student in FCAI Cairo University`**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mohamed+%F0%9F%91%8B;I+build+backends+with+Node.js;REST+APIs+%C2%B7+Auth+%C2%B7+Realtime;Exploring+Agentic+AI+%F0%9F%A4%96)](https://git.io/typing-svg)
 
----
+### 🧑‍💻 About
+- 🔨 Node.js backends — auth, REST, realtime
+- 🤖 Exploring Agentic AI in real apps
+- 🧹 Clean code, clean disks 😄
 
-## 🛠️ **Tech Stack & Tools**
-
-### **Languages I Work With**
+### 🛠️ Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,mongodb,docker,git,linux,react" />
 </p>
 
-- **C++:** Intermediate (OOP, Data Structures, Basic Algorithms)
-- **Python:** Learning...
-
-### **Tools I Use Daily**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
-
-- **Git & GitHub:** Version control for all my projects
-- **VS Code:** Primary code editor
-- **Linux:** Ubuntu for development environment
-
-### **Currently Exploring**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql" />
-</p>
-
-- Web Development (HTML/CSS/JavaScript)
-- Database Basics (MySQL/SQLite)
-
----
-
-## 📊 **GitHub Analytics**
-
+### 📊 Stats
 <div align="center">
-  
-<a href="https://github.com/MohamedAlsayed334">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAlsayed334&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Mohamed Alsayed's GitHub streak stats" />
-</a>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAlsayed334&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlsayed334&layout=compact&theme=dark&hide_border=true&bg_color=1c1917" height="150" />
 </div>
----
 
-## 🌱 **Currently Learning at FCAI**
-- **📘 Data Structures & Algorithms** - Mastering DSA with C++
-- **🐍 Python Programming** - Building projects with Python
-- **🌐 Web Development Basics** - HTML, CSS, JavaScript
-- **🗄️ Introduction to Databases** - SQL fundamentals
-- **📚 Computer Science Fundamentals** - OS, Networking, etc.
----
-
-## 💬 **Let's Connect**
-
+### 📫 Contact
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohamedalsayed" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.mohamedalsayed.me/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" />
-  </a>
-  <a href="mailto:sayedlashine1@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/MohamedAlsayed334" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+  <a href="https://www.mohamedalsayed.me/"><img src="https://skillicons.dev/icons?i=vercel" height="32" /></a>
+  <a href="mailto:mohamed.alsayed.abdelhamed@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32" /></a>
+  <a href="https://github.com/MohamedAlsayed334"><img src="https://skillicons.dev/icons?i=github" height="32" /></a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=90&section=footer"/>
